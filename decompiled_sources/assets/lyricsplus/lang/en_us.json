@@ -1,0 +1,11 @@
+{
+  "key.category.lyricsplus.main": "LyricsPlus",
+  "key.categories.lyricsplus.main": "LyricsPlus",
+  "category.lyricsplus.main": "LyricsPlus",
+  "category.lyricsplus": "LyricsPlus",
+  "key.lyricsplus.toggle_hud": "Toggle Lyrics & Player HUD",
+  "key.lyricsplus.open_config": "Open LyricsPlus Settings",
+  "key.lyricsplus.play_pause": "Media Play / Pause",
+  "key.lyricsplus.next_track": "Next Track (Skip Forward)",
+  "key.lyricsplus.prev_track": "Previous Track (Skip Backward)"
+}

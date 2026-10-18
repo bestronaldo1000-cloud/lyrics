@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "lyricsplus",
+  "version": "2.0.0",
+  "name": "LyricsPlus",
+  "description": "Displays real-time synced song lyrics and a sleek Spotify-style now-playing media HUD in Minecraft.",
+  "authors": [
+    "FRK"
+  ],
+  "contact": {
+    "homepage": "https://github.com/lyricsplus",
+    "sources": "https://github.com/lyricsplus/lyricsplus"
+  },
+  "license": "MIT",
+  "icon": "assets/lyricsplus/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.lyricsplus.LyricsPlusMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": ">=1.21 <=1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}
